@@ -12,7 +12,7 @@ import javax.persistence.Id;
 
 /**
  *
- * @author Usuario
+ * @author Bernardo
  */
 @Entity
 
